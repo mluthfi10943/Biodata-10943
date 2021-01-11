@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BIODATA</string>
+    <string name="img">img</string>
+    <string name="nm">NAMA</string>
+    <string name="nmtxt">MUHAMMAD LUTHFI</string>
+    <string name="nim">NIM</string>
+    <string name="nimtxt">A11.2018.10943</string>
+    <string name="hobi">HOBI</string>
+    <string name="hobitxt">MUSIK-BASKET-GAME</string>
+    <string name="des">DESKRIPSI</string>
+    <string name="destxt">HI, NICE TO MEET U</string>
+</resources>
